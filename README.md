@@ -8,3 +8,7 @@
 ```
  Exercicio 2: Programa HTML para calcular a média das idades
 ```
+
+```
+ Exercicio 3: Problema 1: qual combustivel mais eficiente, problema 2: média de gastos em eventos
+```
